@@ -1,0 +1,13 @@
+首先你需要下载该文件并解压它
+进入后找到“d3dx.ini”打开它
+在这里面找到游戏路径并修改成自己的游戏路径
+并直接保存它。
+下一步就直接打开“3DMigoto Loader.exe”
+然后找到原神游戏本体打开即可完成mod注入
+
+First you need to download the file and unzip it
+Once inside, find "D3DX.ini" to open it
+Find the game path in it and modify it to your own game path
+And save it directly.
+The next step is to open "3DMigoto Loader.exe
+Then find the Genshin game body and open it to complete the mod injection
